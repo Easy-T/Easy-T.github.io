@@ -20,12 +20,12 @@ title                    : "이지쌤의 Fincial IT 테크 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ji Sang Lee"
-description              : "~ 2019 : Inha-Univ-Math Edu & Computer Science\n
-                            2020 ~ : Hana Financial TI"
+description              : "2019 : Inha-Univ-Math Edu & Computer Science \n\n
+                            2020 : Hana Financial TI"
 url                      : "https://Easy-T.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/FinTech_Teaser.png"
+teaser                   : "/assets/images/FinTech-Teaser.png"
 logo                     : "/assets/images/Easy-logo-copy.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
